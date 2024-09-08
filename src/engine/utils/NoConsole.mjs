@@ -1,5 +1,12 @@
+/**
+ * Description placeholder
+ *
+ * @export
+ * @class NoConsole
+ */
 export class NoConsole {
-  log() {
-    // Do nothing
-  }
+    /** Description placeholder */
+    log() {
+        // Do nothing
+    }
 }
